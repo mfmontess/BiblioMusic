@@ -1,0 +1,12 @@
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\bin\Debug\BiblioMusic.exe.config
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\obj\Debug\BiblioMusic.csprojResolveAssemblyReference.cache
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\obj\Debug\BiblioMusic.Form1.resources
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\obj\Debug\BiblioMusic.Properties.Resources.resources
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\obj\Debug\BiblioMusic.csproj.GenerateResource.Cache
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\bin\Debug\BiblioMusic.exe
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\bin\Debug\BiblioMusic.pdb
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\obj\Debug\BiblioMusic.exe
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\obj\Debug\BiblioMusic.pdb
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\bin\Debug\taglib-sharp.dll
+C:\Users\mmontes\Documents\Temp\Developments\BiblioMusic\BiblioMusic\bin\Debug\policy.2.0.taglib-sharp.config
